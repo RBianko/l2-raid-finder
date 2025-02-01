@@ -1,6 +1,6 @@
 # raid_finder
 
-Raid boss helper
+Raid boss Finder (Lineage 2 Interlude App) 
 
 ## v0.0.1
 
